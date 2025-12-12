@@ -1,0 +1,275 @@
+# Tadiran AC Products Todo List
+
+## SUPREME Series
+- [x] [SUPREME INV 140NG White](https://www.tadiran-group.co.il/product/supreme-inv-140ng-white/) - Status: ✅ COMPLETED
+  - Price: ₪2,710
+  - BTU: 9,210 BTU/H cooling, 10,230 BTU/H heating
+  - Energy Rating: A++
+  - Image: supreme-140ng-white-hq.jpg (downloaded)
+- [x] [SUPREME INV 140NG Carbon](https://www.tadiran-group.co.il/product/supreme-inv-140ng-carbon/) - Status: ✅ COMPLETED
+  - Price: ₪2,780
+  - BTU: 9,210 BTU/H cooling, 10,230 BTU/H heating
+  - Energy Rating: A++
+  - Image: supreme-140ng-carbon-hq.jpg (downloaded)
+- [x] [SUPREME INV 180NG White](https://www.tadiran-group.co.il/product/supreme-inv-180ng-white/) - Status: ✅ COMPLETED
+  - Price: ₪2,990
+  - BTU: 11,950 BTU/H cooling, 12,960 BTU/H heating
+  - Energy Rating: A++
+  - Image: supreme-180ng-white-hq.jpg (downloaded)
+- [x] [SUPREME INV 180NG Carbon](https://www.tadiran-group.co.il/product/supreme-inv-180ng-carbon/) - Status: ✅ COMPLETED
+  - Price: ₪3,050
+  - BTU: 11,950 BTU/H cooling, 12,960 BTU/H heating
+  - Energy Rating: A++
+  - Image: supreme-180ng-carbon-hq.jpg (downloaded)
+- [x] [SUPREME INV 240NG White](https://www.tadiran-group.co.il/product/supreme-inv-240ng-white/) - Status: ✅ COMPLETED
+  - Price: ₪5,460
+  - BTU: 17,740 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: supreme-240ng-white-hq.jpg (downloaded)
+- [x] [SUPREME INV 240NG Carbon](https://www.tadiran-group.co.il/product/supreme-inv-240ng-carbon/) - Status: ✅ COMPLETED
+  - Price: ₪5,720
+  - BTU: 17,740 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: supreme-240ng-carbon-hq.jpg (downloaded)
+- [x] [SUPREME INV 370NG White](https://www.tadiran-group.co.il/product/supreme-inv-370ng-white/) - Status: ✅ COMPLETED
+  - Price: ₪8,610
+  - BTU: 28,000 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: supreme-370ng-white-hq.jpg (downloaded)
+- [x] [SUPREME INV 370NG Carbon](https://www.tadiran-group.co.il/product/supreme-inv-370ng-carbon/) - Status: ✅ COMPLETED
+  - Price: ₪9,010
+  - BTU: 28,000 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: supreme-370ng-carbon-hq.jpg (downloaded)
+
+## ALPHA PRO Series
+- [x] [Alpha Pro INV 340NG](https://www.tadiran-group.co.il/product/tadiran-alpha-pro-inv-340ng/) - Status: ✅ COMPLETED
+  - Price: ₪6,020
+  - BTU: 24,000 BTU/H cooling, 25,000 BTU/H heating
+  - Energy Rating: A++
+  - Image: alpha-pro-340ng-hq.png (downloaded)
+- [x] [Alpha Pro INV 140NG](https://www.tadiran-group.co.il/product/alpha-pro-inv-140ng/) - Status: ✅ COMPLETED
+  - Price: ₪2,310
+  - BTU: 9,210 BTU/H cooling, 10,236 BTU/H heating
+  - Energy Rating: A++
+  - Image: alpha-pro-140ng-hq.png (downloaded)
+- [x] [Alpha Pro INV 180NG](https://www.tadiran-group.co.il/product/alpha-pro-inv-180ng/) - Status: ✅ COMPLETED
+  - Price: ₪2,710
+  - BTU: 11,940 BTU/H cooling, 12,970 BTU/H heating
+  - Energy Rating: A++
+  - Image: alpha-pro-180ng-hq.png (downloaded)
+- [x] [Alpha Pro INV 240NG](https://www.tadiran-group.co.il/product/alpha-pro-inv-240ng/) - Status: ✅ COMPLETED
+  - Price: ₪4,550
+  - BTU: 17,740 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: alpha-pro-240ng-hq.png (downloaded)
+- [x] [Alpha Pro INV 370NG](https://www.tadiran-group.co.il/product/alpha-pro-inv-370ng/) - Status: ✅ COMPLETED
+  - Price: ₪7,350
+  - BTU: 28,000 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: alpha-pro-370ng-hq.png (downloaded)
+- [x] [Alpha Pro INV 450NG](https://www.tadiran-group.co.il/product/alpha-pro-inv-450ng/) - Status: ✅ COMPLETED
+  - Price: ₪10,200
+  - BTU: 32,100 BTU/H cooling, 32,700 BTU/H heating
+  - Energy Rating: A++
+  - Image: alpha-pro-450ng-hq.png (downloaded)
+
+## JOY Series
+- [x] [JOY INV 140NG](https://www.tadiran-group.co.il/product/tadiran-joy-inv140ng/) - Status: ✅ COMPLETED
+  - Price: ₪2,230
+  - BTU: 8,530 BTU/H cooling, 9,550 BTU/H heating
+  - Energy Rating: A++
+  - Image: joy-140ng-hq.jpg (downloaded)
+- [x] [JOY INVERTER 180NG](https://www.tadiran-group.co.il/product/tadiran-joy-inverter180ng/) - Status: ✅ COMPLETED
+  - Price: ₪2,540
+  - BTU: 10,900 BTU/H cooling, 11,600 BTU/H heating
+  - Energy Rating: A++
+  - Image: joy-180ng-hq.jpg (downloaded)
+- [x] [JOY INVERTER 240NG](https://www.tadiran-group.co.il/product/tadiran-j-y-inverter240ng/) - Status: ✅ COMPLETED
+  - Price: ₪4,230
+  - BTU: 15,700 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: joy-240ng-hq.jpg (downloaded)
+- [x] [JOY INVERTER 370NG](https://www.tadiran-group.co.il/product/tadiran-joy-inverter370ng/) - Status: ✅ COMPLETED
+  - Price: ₪7,010
+  - BTU: 27,980 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: joy-370ng-hq.jpg (downloaded)
+- [x] [JOY INVERTER 340NG](https://www.tadiran-group.co.il/product/tadiran-joy-inverter340ng/) - Status: ✅ COMPLETED
+  - Price: ₪5,560
+  - BTU: 21,150 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: joy-340ng-hq.jpg (downloaded)
+
+## SOLO Series
+- [x] [SOLO INVERTER 140NG](https://www.tadiran-group.co.il/product/solo-inverter-140ng/) - Status: ✅ COMPLETED
+  - Price: ₪1,910
+  - BTU: 8,530 BTU/H cooling, 9,550 BTU/H heating
+  - Energy Rating: A++
+  - Image: solo-140ng-hq.jpg (downloaded)
+- [x] [SOLO INVERTER 180NG](https://www.tadiran-group.co.il/product/solo-inverter-180ng/) - Status: ✅ COMPLETED
+  - Price: ₪2,290
+  - BTU: 10,900 BTU/H cooling, 11,600 BTU/H heating
+  - Energy Rating: A++
+  - Image: solo-180ng-hq.jpg (downloaded)
+- [x] [SOLO INVERTER 240NG](https://www.tadiran-group.co.il/product/solo-inverter240ng/) - Status: ✅ COMPLETED
+  - Price: ₪3,960
+  - BTU: 15,700 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: solo-240ng-hq.jpg (downloaded)
+- [x] [SOLO INVERTER 340NG](https://www.tadiran-group.co.il/product/solo-inverter340ng/) - Status: ✅ COMPLETED
+  - Price: ₪5,080
+  - BTU: 21,150 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: solo-340ng-hq.jpg (downloaded)
+- [x] [SOLO INVERTER 370NG](https://www.tadiran-group.co.il/product/solo-inverter370ng/) - Status: ✅ COMPLETED
+  - Price: ₪6,410
+  - BTU: 27,980 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: solo-370ng-hq.jpg (downloaded)
+- [x] [SOLO INVERTER 450NG](https://www.tadiran-group.co.il/product/solo-inverter450ng/) - Status: ✅ COMPLETED
+  - Price: ₪7,800
+  - BTU: 32,070 BTU/H cooling, 32,750 BTU/H heating
+  - Energy Rating: A++
+  - Image: solo-450ng-hq.png (downloaded)
+
+## APOLLO Series
+- [x] [APOLLO N INVERTER 340NG](https://www.tadiran-group.co.il/product/apollo-n-inv-340/) - Status: ✅ COMPLETED
+  - Price: ₪4,750
+  - BTU: 20,280 BTU/H cooling, 22,200 BTU/H heating
+  - Energy Rating: A++
+  - Image: apollo-340ng-hq.png (downloaded)
+- [x] [APOLLO N INVERTER 360/3NG](https://www.tadiran-group.co.il/product/apollo-n-inv-360-3/) - Status: ✅ COMPLETED
+  - Price: ₪6,430
+  - BTU: 27,600 BTU/H cooling, 28,600 BTU/H heating
+  - Energy Rating: A++
+  - Image: apollo-360-3ng-hq.png (downloaded)
+- [x] [APOLLO N INVERTER 360NG](https://www.tadiran-group.co.il/product/pollo-inv-n360ng/) - Status: ✅ COMPLETED
+  - Price: ₪5,980
+  - BTU: 27,150 BTU/H cooling, 28,170 BTU/H heating
+  - Energy Rating: A++
+  - Image: apollo-360ng-hq.png (downloaded)
+- [x] [APOLLO N INVERTER 450/3NG](https://www.tadiran-group.co.il/product/apollo-n-inv-450-3/) - Status: ✅ COMPLETED
+  - Price: ₪8,070
+  - BTU: 32,030 BTU/H cooling, 31,250 BTU/H heating
+  - Energy Rating: A++
+  - Image: apollo-450-3ng-hq.png (downloaded)
+
+## AMCOR Series
+- [x] [AMCOR INVERTER 14NG](https://www.tadiran-group.co.il/product/amcor-inv-140ng/) - Status: ✅ COMPLETED
+  - Price: ₪1,610
+  - BTU: 8,530 BTU/H cooling, 9,550 BTU/H heating
+  - Energy Rating: A++
+  - Image: amcor-14ng-hq.png (downloaded)
+- [x] [AMCOR INVERTER 18NG](https://www.tadiran-group.co.il/product/amcor-inv-18ng/) - Status: ✅ COMPLETED
+  - Price: ₪1,860
+  - BTU: 10,920 BTU/H cooling, 11,600 BTU/H heating
+  - Energy Rating: A++
+  - Image: amcor-18ng-hq.png (downloaded)
+- [x] [AMCOR INVERTER 24NG](https://www.tadiran-group.co.il/product/amcor-inv-24ng/) - Status: ✅ COMPLETED
+  - Price: ₪3,700
+  - BTU: 15,700 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: amcor-24ng-hq.png (downloaded)
+- [x] [AMCOR INVERTER 34NG](https://www.tadiran-group.co.il/product/amcor-inv-34ng/) - Status: ✅ COMPLETED
+  - Price: ₪4,750
+  - BTU: 21,150 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: amcor-34ng-hq.png (downloaded)
+- [x] [AMCOR INVERTER 37NG](https://www.tadiran-group.co.il/product/amcor-inv-37ng/) - Status: ✅ COMPLETED
+  - Price: ₪5,980
+  - BTU: 27,980 BTU/H cooling & heating
+  - Energy Rating: A++
+  - Image: amcor-37ng-hq.png (downloaded)
+
+## GALAXY INV Series
+- [x] [GALAXY INV 145](https://www.tadiran-group.co.il/product/tadiran-galaxy-inv-145/) - Status: ✅ COMPLETED
+  - Price: ₪1,710
+  - BTU: 8,600 BTU/H cooling, 9,250 BTU/H heating
+  - Energy Rating: A++
+  - Image: galaxy-145-hq.jpg (downloaded)
+- [x] [GALAXY INV 145 BLACK](https://www.tadiran-group.co.il/product/tadiran-galaxy-inv-145-black/) - Status: ✅ COMPLETED
+  - Price: ₪1,770
+  - BTU: 8,600 BTU/H cooling, 9,250 BTU/H heating
+  - Energy Rating: A++
+  - Image: galaxy-145-black-hq.jpg (downloaded)
+- [x] [GALAXY INV-185](https://www.tadiran-group.co.il/product/tadiran-galaxy-inv-185/) - Status: ✅ COMPLETED
+  - Price: ₪2,120
+  - BTU: 11,430 BTU/H cooling, 11,945 BTU/H heating
+  - Energy Rating: A++
+  - Image: galaxy-185-hq.jpg (downloaded)
+- [x] [GALAXY INV-185 BLACK](https://www.tadiran-group.co.il/product/tadiran-galaxy-inv-185-black/) - Status: ✅ COMPLETED
+  - Price: ₪2,180
+  - BTU: 11,430 BTU/H cooling, 11,945 BTU/H heating
+  - Energy Rating: A++
+  - Image: galaxy-185-black-hq.jpg (downloaded)
+- [x] [GALAXY INV-215](https://www.tadiran-group.co.il/product/tadiran-galaxy-inv-215/) - Status: ✅ COMPLETED
+  - Price: ₪3,010
+  - BTU: 15,010 BTU/H cooling, 15,750 BTU/H heating
+  - Energy Rating: A+
+  - Image: galaxy-215-hq.jpg (downloaded)
+- [x] [GALAXY INV-215 BLACK](https://www.tadiran-group.co.il/product/tadiran-galaxy-inv-215-black/) - Status: ✅ COMPLETED
+  - Price: ₪3,100
+  - BTU: 15,010 BTU/H cooling, 15,750 BTU/H heating
+  - Energy Rating: A+
+  - Image: galaxy-215-black-hq.jpg (downloaded)
+- [x] [GALAXY INV-245](https://www.tadiran-group.co.il/product/tadiran-galaxy-inv-245/) - Status: ✅ COMPLETED
+  - Price: ₪3,770
+  - BTU: 17,150 BTU/H cooling, 18,150 BTU/H heating
+  - Energy Rating: A++
+  - Image: galaxy-245-hq.jpg (downloaded)
+- [x] [GALAXY INV-245 BLACK](https://www.tadiran-group.co.il/product/tadiran-galaxy-inv-245-black/) - Status: ✅ COMPLETED
+  - Price: ₪3,880
+  - BTU: 17,150 BTU/H cooling, 18,150 BTU/H heating
+  - Energy Rating: A++
+  - Image: galaxy-245-black-hq.jpg (downloaded)
+- [x] [GALAXY INV-345](https://www.tadiran-group.co.il/product/tadiran-galaxy-inv-345/) - Status: ✅ COMPLETED
+  - Price: ₪4,840
+  - BTU: 20,780 BTU/H cooling, 22,200 BTU/H heating
+  - Energy Rating: A++
+  - Image: galaxy-345-hq.jpg (downloaded)
+- [x] [GALAXY INV-365](https://www.tadiran-group.co.il/product/tadiran-galaxy-inv-365/) - Status: ✅ COMPLETED
+  - Price: ₪6,100
+  - BTU: 27,150 BTU/H cooling, 28,170 BTU/H heating
+  - Energy Rating: A++
+  - Image: galaxy-365-hq.jpg (downloaded)
+- [x] [GALAXY INV-365 BLACK](https://www.tadiran-group.co.il/product/tadiran-galaxy-inv-365-black/) - Status: ✅ COMPLETED
+  - Price: ₪6,280
+  - BTU: 27,150 BTU/H cooling, 28,170 BTU/H heating
+  - Energy Rating: A++
+  - Image: galaxy-365-black-hq.jpg (downloaded)
+- [x] [GALAXY INV 365/3](https://www.tadiran-group.co.il/product/tadiran-galaxy-inv-365-3/) - Status: ✅ COMPLETED
+  - Price: ₪6,560
+  - BTU: 27,600 BTU/H cooling, 28,600 BTU/H heating
+  - Energy Rating: A++
+  - Image: galaxy-365-3-hq.jpg (downloaded)
+- [x] [GALAXY INV 365/3 BLACK](https://www.tadiran-group.co.il/product/tadiran-galaxy-inv-365-3-black/) - Status: ✅ COMPLETED
+  - Price: ₪6,750
+  - BTU: 27,600 BTU/H cooling, 28,600 BTU/H heating
+  - Energy Rating: A++
+  - Image: galaxy-365-3-black-hq.jpg (downloaded)
+- [x] [GALAXY INV 455/3](https://www.tadiran-group.co.il/product/tadiran-galaxy-inv-455-3/) - Status: ✅ COMPLETED
+  - Price: ₪8,230
+  - BTU: 32,030 BTU/H cooling, 31,250 BTU/H heating
+  - Energy Rating: A++
+  - Image: galaxy-455-3-hq.jpg (downloaded)
+
+## Final Progress Summary
+- **Total Products Completed: 48**
+- **SUPREME Series: 8 products** ✅ COMPLETED
+- **ALPHA PRO Series: 6 products** ✅ COMPLETED  
+- **JOY Series: 5 products** ✅ COMPLETED
+- **SOLO Series: 6 products** ✅ COMPLETED
+- **APOLLO Series: 4 products** ✅ COMPLETED
+- **AMCOR Series: 5 products** ✅ COMPLETED
+- **GALAXY INV Series: 14 products** ✅ COMPLETED
+
+**🎉 PROJECT COMPLETED SUCCESSFULLY! 🎉**
+
+All 48 Tadiran air conditioner products have been successfully:
+- ✅ Extracted from individual product pages
+- ✅ High-quality images downloaded to `/public/ac-images/`
+- ✅ Added to `src/lib/shopify/index.ts` with detailed specifications
+- ✅ Properly categorized by series and BTU capacity
+- ✅ Priced in Israeli Shekels (ILS)
+- ✅ SEO optimized with relevant tags and descriptions
